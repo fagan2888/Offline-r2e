@@ -1,2 +1,3 @@
-cd to folder where rss2email.py is located for example /usr/share/rss2email/
+cd to folder where rss2email.py is located (for example: /usr/share/rss2email/) and execute the command
+
 sudo sed -ibak -e 's:/usr/sbin/sendmail:/usr/local/bin/r2e2maildir.py/g' rss2email.py
