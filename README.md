@@ -4,4 +4,4 @@
 
 This repository contains the custom python script [r2e2maildir.py](r2e2maildir.py) and a file [patch-rss2email](patch-rss2email) giving instructions on patching rss2email.py
 
-For more details about the motivation for this project and the approach see my blog post.
+For more details about the motivation for this project and the approach see my [blog post](https://jrvcomputing.wordpress.com/2015/06/17/head-in-the-clouds-feet-on-the-ground-part-ii-feed-reader-2/).
